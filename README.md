@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Web Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Java+%7C+Spring+Boot+%7C+React.js;MERN+Stack+Specialist;Building+Scalable+Web+Apps;Open+Source+Contributor; Freelancer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Java+%7C+Spring+Boot+%7C+React.js;MERN+Stack+Specialist;Building+Scalable+Web+Apps;Open+Source+Contributor;Freelancer" alt="Typing SVG" />
 </p>
 
 ---
