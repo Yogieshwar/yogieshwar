@@ -55,7 +55,7 @@
 ### 📫 Connect With Me
 
 <p>
-  <a href="www.linkedin.com/in/konneyogieshwar" target="_blank">
+  <a href="https://www.linkedin.com/in/konneyogieshwar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
 <!--   <a href="https://www.instagram.com/yourprofile/" target="_blank">
